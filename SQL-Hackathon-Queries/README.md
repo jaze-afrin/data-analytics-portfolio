@@ -8,6 +8,7 @@ Download it to see the formatted SQL code.
 
 
 💡 Healthcare SQL Hackathons
+
 📌 1. Cardiac Failure Outcome Hackathon (Q33–Q48)
 📁 File: Cardiac_Failure_Hackathon_Query1.sql
 This project was part of a SQL-based hackathon focused on analyzing outcomes for heart failure patients admitted to a hospital in Sichuan, China.
@@ -49,6 +50,7 @@ Case Handling and Error Messaging
 Dynamic Report Generation
 
 Data Aggregation and Formatting
+
 
 📌 2. Critical Care Hackathon – SQL Queries
 📁 File: Critical_Care_Hackathon_Query2.sql
