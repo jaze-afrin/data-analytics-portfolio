@@ -3,7 +3,6 @@ Some of the SQL files may appear as a single line in GitHub’s preview mode. Ho
 To view the file properly:
 
 Click the "Raw" button on the file page, or
-
 Download it to see the formatted SQL code.
 
 
