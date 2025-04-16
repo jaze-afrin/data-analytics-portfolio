@@ -7,6 +7,7 @@ This project aims to analyze maternal health trends, including morbidity, mortal
 Tools Used:
 
 Power BI: Used for data visualization and creating interactive dashboards.
+
 SQL: Used for data cleaning and transforming the dataset.
 
 Dataset
@@ -18,7 +19,9 @@ Cleaning Process (SQL)
 The data cleaning process included:
 
 Removing missing or duplicate records.
+
 Converting data types for consistency.
+
 Handling outliers and correcting errors in the dataset.
 
 Achievements:
