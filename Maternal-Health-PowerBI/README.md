@@ -10,9 +10,11 @@ Power BI: Used for data visualization and creating interactive dashboards.
 
 SQL: Used for data cleaning and transforming the dataset.
 
+
 Dataset
 
 Maternal Ultrasound Nutrition dataset: This dataset includes maternal health data, particularly abdominal fat measurements, and pregnancy outcomes.
+
 
 Cleaning Process (SQL)
 
@@ -24,6 +26,7 @@ Converting data types for consistency.
 
 Handling outliers and correcting errors in the dataset.
 
+
 Achievements:
 
 Successfully built an interactive Power BI dashboard showcasing maternal health trends.
@@ -33,6 +36,7 @@ Analyzed the correlation between maternal abdominal fat and complications like g
 Identified healthcare access and socio-economic disparities that affect maternal health outcomes.
 
 Cleaned and transformed the data using SQL for accurate analysis.
+
 
 Files Included:
 
