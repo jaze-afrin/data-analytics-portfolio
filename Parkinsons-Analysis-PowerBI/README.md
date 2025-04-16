@@ -76,6 +76,8 @@ Bradykinesia Score: Based on gyroscope data, calculated from tasks involving fin
 
 Challenges Faced
 
+One of the major challenges was consolidating the data from multiple files, including JSON files, ensuring a consistent structure across all datasets.
+
 Consolidating sensor data, including accelerometer and gyroscope readings, was a challenge, especially when dealing with multiple tasks and patient conditions.
 
 Deciding which tasks to include in the analysis for accurate score calculation was another key challenge.
