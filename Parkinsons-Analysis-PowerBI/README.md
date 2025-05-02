@@ -96,5 +96,4 @@ Parkinson’s Disease patients showed high scores in both motor (UPDRS) and non-
 
 Healthy Controls displayed low to medium scores on motor and non-motor symptom scales, highlighting the contrast between the disease states.
 
-Power BI Dashboard (.pbix)    ---->   
-The Power BI Dashboard for the Parkinson’s Disease analysis can be found in the attached .pbix file. This file includes all the visualizations and data transformations used in the project. You can open it in Power BI Desktop to explore the interactive reports and insights.
+
