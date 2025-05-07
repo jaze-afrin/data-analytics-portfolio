@@ -38,7 +38,3 @@ Identified healthcare access and socio-economic disparities that affect maternal
 
 Cleaned and transformed the data using SQL for accurate analysis.
 
-
-Files Included:
-
-Power BI Dashboard (.pbix): MaternalHealthDashboard.pbix
